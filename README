@@ -2,11 +2,11 @@ If you want to run this locally, you will need to install webpack and bundle the
 
 I have it installed globally on my system, so I ran
 
-    npm link webpack
+```npm link webpack```
 
 Then I was able to run
 
-    webpack
+```webpack```
 
 from the project directory.
 
